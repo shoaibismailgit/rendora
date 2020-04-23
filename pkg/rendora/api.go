@@ -48,3 +48,4 @@ func (R *Rendora) apiRender(c *gin.Context) {
 		panic(err)
 	}
 }
+
