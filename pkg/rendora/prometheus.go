@@ -51,4 +51,3 @@ func (R *Rendora) initPrometheus() {
 	prometheus.MustRegister(ret.Duration)
 	R.metrics = ret
 }
-
