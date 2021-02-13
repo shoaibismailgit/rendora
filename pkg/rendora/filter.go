@@ -105,3 +105,4 @@ func (R *Rendora) isWhitelisted(c *gin.Context) bool {
 	}
 
 }
+
