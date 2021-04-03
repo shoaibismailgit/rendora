@@ -10,3 +10,4 @@ services:
         network_mode: "host"
         volumes:
             - ./config.yaml:/etc/rendora/config.yaml
+
