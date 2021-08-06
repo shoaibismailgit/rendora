@@ -195,4 +195,3 @@ type Rendora struct {
 	metrics    *metrics
 	cfgFile    string
 }
-
