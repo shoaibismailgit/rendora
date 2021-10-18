@@ -121,4 +121,3 @@ func (c *cacheStore) get(cKey string) (*HeadlessResponse, bool, error) {
 		return nil, false, nil
 	}
 }
-
