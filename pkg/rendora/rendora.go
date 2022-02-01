@@ -139,4 +139,3 @@ func New(cfgFile string) (*Rendora, error) {
 	}
 	return rendora, nil
 }
-
