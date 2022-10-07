@@ -244,4 +244,3 @@ func (c *headlessClient) getResponse(uri string) (*HeadlessResponse, error) {
 
 	return ret, nil
 }
-
